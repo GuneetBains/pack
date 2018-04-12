@@ -7,6 +7,7 @@ public class StringBufferDemo {
 		StringBuilder sb=new StringBuilder("Hello"); 
 		sb.append("Java Commit change");
 		System.out.println(sb);
+		System.out.println("New changes done by Jasreena");
 	}	
 	public void chk1()
 	{
